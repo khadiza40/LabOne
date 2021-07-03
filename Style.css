@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(241, 229, 204);
+}
+#uu{
+   transform: rotate(90deg);
+   width: 280px;
+   margin-left: 40px;
+   height: 2px;
+   color: rgb(65, 77, 53);
+
+}
+h1{
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    margin-top: 0px;
+    text-shadow: 2px 2px 5px green;
+}
+#ss{
+    color: rgb(90, 151, 29);
+    font-size: 59px;
+    text-shadow: 2px 2px 5px black;
+}
+img {
+    
+  height: 720px;
+  width: 100%;
+  border: 1px solid #555;
+  border-radius: 4px;
+  
+
+}
+img:hover{
+    box-shadow: 0 0 4px 7px rgba(0, 140, 186, 0.5);
+}
+h2{
+ color: rgb(20, 20, 22);
+ font-size: 110px;
+ text-align: center;
+ text-shadow: 2px 2px 5px rgb(87, 117, 87);
+}
+
+h3{
+    color: rgb(20, 20, 22);
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(9, 34, 9);
+    font-weight:bolder;
+    font-style: normal;
+    font-family: cursive;
+}
+#pp{
+   color: black;
+   font-size: 25px;
+   font-weight: bold;
+   font-family: fantasy;
+    
+    
+}
+dd{
+    font-family: monospace;
+    font-size: 13px;
+    font-weight: bold;
+}
+ol{
+    list-style-type: upper-roman;
+}
+ul{
+    list-style-type:circle;
+}
+li{
+    font-family: monospace;
+    font-size: 13px;
+    font-weight: bold;
+
+}
+mark{
+    color: green;
+    background-color: rgba(0,0,0,0);
+}
+address{
+    font-weight: bold;
+    color: gray;
+    font-size: larger;
+    background-color: rgb(10, 10, 49);
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+#mm{
+    font-size: xx-large;
+}
